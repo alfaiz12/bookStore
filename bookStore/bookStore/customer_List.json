@@ -1,0 +1,121 @@
+{
+  "customer": [
+    {
+      "customer_Name": "Arjuma Alfaiz",
+      "customer_Email": "alfaizkhan147@gmail.com",
+      "customer_Age": 21,
+      "customer_Phone": "9136723149",
+      "customer_Location": "kurla",
+      "customer_Password": "hellbhai"
+    },
+    {
+      "customer_Name": "ALkaif",
+      "customer_Email": "alkaif@gmail.com",
+      "customer_Age": "20",
+      "customer_Phone": "9820930822",
+      "customer_Location": "kurla",
+      "customer_Password": "hellbhai"
+    },
+    {
+      "customer_Name": "israq",
+      "customer_Email": "israq",
+      "customer_Age": "18",
+      "customer_Phone": "1234556",
+      "customer_Location": "kurla",
+      "customer_Password": "hellbhai"
+    },
+    {
+      "customer_Name": "ibrar",
+      "customer_Email": "ibrar@gmail.com",
+      "customer_Age": "25",
+      "customer_Phone": "9820930822",
+      "customer_Location": "kurla",
+      "customer_Password": "ibrarbhai"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": 1,
+      "book_cat": "MYTH"
+    },
+    {
+      "category_id": 2,
+      "book_cat": "ROAMNCE"
+    },
+    {
+      "category_id": 3,
+      "book_cat": "NOVEL"
+    },
+    {
+      "category_id": 4,
+      "book_cat": "FICTION"
+    },
+    {
+      "category_id": 5,
+      "book_cat": "NON-FICTION"
+    },
+    {
+      "category_id": 6,
+      "book_cat": "BIOGRAPHY"
+    },
+    {
+      "category_id": 7,
+      "book_cat": "FAIRYTALE"
+    },
+    {
+      "category_id": 8,
+      "book_cat": "DRAMA"
+    },
+    {
+      "category_id": 9,
+      "book_cat": "HISTORY"
+    },
+    {
+      "category_id": 10,
+      "book_cat": "POEMS"
+    }
+  ],
+  "bookDetails": [
+    {
+      "book_Id": 1,
+      "book_Name": "The Iliad",
+      "book_Author": "Homer",
+      "book_Price": 1000,
+      "book_Category": "MYTH",
+      "book_Category_id": 1
+    },
+    {
+      "book_Id": 2,
+      "book_Name": "Gods Of Aincent Egypt",
+      "book_Author": "Richard.H Wilkinson",
+      "book_Price": 1000,
+      "book_Category": "MYTH",
+      "book_Category_id": 1
+    },
+    {
+      "book_Id": 3,
+      "book_Name": "Norse Mythology",
+      "book_Author": "Neil Gaiman",
+      "book_Price": 1000,
+      "book_Category": "MYTH",
+      "book_Category_id": 1
+    },
+    {
+      "book_Id": 4,
+      "book_Name": "Children of Blood & Bone",
+      "book_Author": "Tomi Adyemi",
+      "book_Price": 1000,
+      "book_Category": "MYTH",
+      "book_Category_id": 1
+    },
+    {
+      "book_Id": 5,
+      "book_Name": "Mules and Men",
+      "book_Author": "Zora Neale Hurston",
+      "book_Price": 1000,
+      "book_Category": "MYTH",
+      "book_Category_id": 1
+
+    }
+  ]
+}
