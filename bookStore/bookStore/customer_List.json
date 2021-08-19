@@ -1,0 +1,551 @@
+{
+  "customer": [
+    {
+      "customer_Id": 101,
+      "customer_Name": "Arjuma Alfaiz",
+      "customer_Email": "alfaizkhan147@gmail.com",
+      "customer_Age": 21,
+      "customer_Phone": "913672314",
+      "customer_Location": "kurla",
+      "customer_Password": "hellbhai"
+    },
+    {
+      "customer_Id": 102,
+      "customer_Name": "Alfaiz",
+      "customer_Email": "alfaiz123@gmail.com",
+      "customer_Age": 21,
+      "customer_Phone": "123456789",
+      "customer_Location": "kurla",
+      "customer_Password": "123"
+    },
+    {
+      "customer_Id": 103,
+      "customer_Name": "Saif",
+      "customer_Email": "saif@gmail.com",
+      "customer_Age": 21,
+      "customer_Phone": "23456789",
+      "customer_Location": "Bandra",
+      "customer_Password": "Bandra"
+    },
+    {
+      "customer_Id": 104,
+      "customer_Name": "israk",
+      "customer_Email": "shaikh",
+      "customer_Age": 29,
+      "customer_Phone": "090909",
+      "customer_Location": "kurla",
+      "customer_Password": "090909"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": 1,
+      "book_cat": "MYTH"
+    },
+    {
+      "category_id": 2,
+      "book_cat": "ROAMNCE"
+    },
+    {
+      "category_id": 3,
+      "book_cat": "NOVEL"
+    },
+    {
+      "category_id": 4,
+      "book_cat": "FICTION"
+    },
+    {
+      "category_id": 5,
+      "book_cat": "NON-FICTION"
+    },
+    {
+      "category_id": 6,
+      "book_cat": "BIOGRAPHY"
+    },
+    {
+      "category_id": 7,
+      "book_cat": "FAIRYTALE"
+    },
+    {
+      "category_id": 8,
+      "book_cat": "DRAMA"
+    },
+    {
+      "category_id": 9,
+      "book_cat": "HISTORY"
+    },
+    {
+      "category_id": 10,
+      "book_cat": "POEMS"
+    }
+  ],
+  "bookDetails": [
+    {
+      "book_Id": 1,
+      "book_Name": "The Iliad",
+      "book_Author": "Homer",
+      "book_Price": 1000,
+      "book_Category": "MYTH",
+      "book_Category_id": 1,
+      "book_Quantity": 94
+    },
+    {
+      "book_Id": 2,
+      "book_Name": "Gods Of Aincent Egypt",
+      "book_Author": "Richard.H Wilkinson",
+      "book_Price": 1000,
+      "book_Category": "MYTH",
+      "book_Category_id": 1,
+      "book_Quantity": 99
+    },
+    {
+      "book_Id": 3,
+      "book_Name": "Norse Mythology",
+      "book_Author": "Neil Gaiman",
+      "book_Price": 1000,
+      "book_Category": "MYTH",
+      "book_Category_id": 1,
+      "book_Quantity": 98
+    },
+    {
+      "book_Id": 4,
+      "book_Name": "Children of Blood & Bone",
+      "book_Author": "Tomi Adyemi",
+      "book_Price": 1000,
+      "book_Category": "MYTH",
+      "book_Category_id": 1,
+      "book_Quantity": 98
+    },
+    {
+      "book_Id": 5,
+      "book_Name": "Mules and Men",
+      "book_Author": "Zora Neale Hurston",
+      "book_Price": 1000,
+      "book_Category": "MYTH",
+      "book_Category_id": 1,
+      "book_Quantity": 99
+    },
+    {
+      "book_Id": 6,
+      "book_Name": "It Ends with Us",
+      "book_Author": "Colleen Hoover",
+      "book_Price": 1000,
+      "book_Category": "ROMANCE",
+      "book_Category_id": 2
+    },
+    {
+      "book_Id": 7,
+      "book_Name": "Pride and Prejudice",
+      "book_Author": "Jane Austen",
+      "book_Price": 2600,
+      "book_Category": "ROMANCE",
+      "book_Category_id": 2
+    },
+    {
+      "book_Id": 8,
+      "book_Name": "People Meet on Vacation",
+      "book_Author": "Emily Henry",
+      "book_Price": 1690,
+      "book_Category": "ROMANCE",
+      "book_Category_id": 2
+    },
+    {
+      "book_Id": 9,
+      "book_Name": "The Notebook",
+      "book_Author": "Nicholas Sparks",
+      "book_Price": 5600,
+      "book_Category": "ROMANCE",
+      "book_Category_id": 2
+    },
+    {
+      "book_Id": 10,
+      "book_Name": "Fifty Shades of Grey",
+      "book_Author": "E. L. James",
+      "book_Price": 1700,
+      "book_Category": "ROMANCE",
+      "book_Category_id": 2
+    },
+    {
+      "book_Id": 11,
+      "book_Name": "Nineteen Eighty-Four",
+      "book_Author": "E. L. James",
+      "book_Price": 1700,
+      "book_Category": "NOVEL",
+      "book_Category_id": 3
+    },
+    {
+      "book_Id": 12,
+      "book_Name": "The Great Gatsby",
+      "book_Author": "F. Scott Fitzgerald",
+      "book_Price": 1000,
+      "book_Category": "NOVEL",
+      "book_Category_id": 3
+    },
+    {
+      "book_Id": 13,
+      "book_Name": "To Kill a Mockingbird",
+      "book_Author": "Harper Lee",
+      "book_Price": 2600,
+      "book_Category": "NOVEL",
+      "book_Category_id": 3
+    },
+    {
+      "book_Id": 14,
+      "book_Name": "The Alchemist",
+      "book_Author": "Paulo Coelho",
+      "book_Price": 1900,
+      "book_Category": "NOVEL",
+      "book_Category_id": 3
+    },
+    {
+      "book_Id": 15,
+      "book_Name": "The Book Thief",
+      "book_Author": "Markus Zusak",
+      "book_Price": 3000,
+      "book_Category": "NOVEL",
+      "book_Category_id": 3
+    },
+    {
+      "book_Id": 16,
+      "book_Name": "One Piece",
+      "book_Author": "Eiichiro Oda",
+      "book_Price": 9999,
+      "book_Category": "FICTIONAL",
+      "book_Category_id": 4
+    },
+    {
+      "book_Id": 17,
+      "book_Name": "Attack on Titan",
+      "book_Author": "Hajime Isayama",
+      "book_Price": 2600,
+      "book_Category": "FICTIONAL",
+      "book_Category_id": 4
+    },
+    {
+      "book_Id": 18,
+      "book_Name": "My Hero Academia",
+      "book_Author": "Kohei Horikoshi",
+      "book_Price": 5600,
+      "book_Category": "FICTIONAL",
+      "book_Category_id": 4
+    },
+    {
+      "book_Id": 19,
+      "book_Name": "Solo Leveling",
+      "book_Author": "Jang Sung-rak",
+      "book_Price": 7090,
+      "book_Category": "FICTIONAL",
+      "book_Category_id": 4
+    },
+    {
+      "book_Id": 20,
+      "book_Name": "Demon Slayer: Kimetsu no Yaiba",
+      "book_Author": "Koyoharu Gotouge",
+      "book_Price": 2600,
+      "book_Category": "FICTIONAL",
+      "book_Category_id": 4
+    },
+    {
+      "book_Id": 21,
+      "book_Name": "Silent Spring",
+      "book_Author": "Rachel Carson",
+      "book_Price": 1000,
+      "book_Category": "NON-FICTIONAL",
+      "book_Category_id": 5
+    },
+    {
+      "book_Id": 22,
+      "book_Name": "In Cold Blood",
+      "book_Author": "Truman Capote",
+      "book_Price": 2600,
+      "book_Category": "NON-FICTIONAL",
+      "book_Category_id": 5
+    },
+    {
+      "book_Id": 23,
+      "book_Name": "A Room of One's Own",
+      "book_Author": "Virginia Woolf",
+      "book_Price": 1100,
+      "book_Category": "NON-FICTIONAL",
+      "book_Category_id": 5
+    },
+    {
+      "book_Id": 24,
+      "book_Name": "Into Thin Air",
+      "book_Author": "Jon Krakauer",
+      "book_Price": 4900,
+      "book_Category": "NON-FICTIONAL",
+      "book_Category_id": 5
+    },
+    {
+      "book_Id": 25,
+      "book_Name": "A Brief History of Time",
+      "book_Author": "Stephen Hawking",
+      "book_Price": 5000,
+      "book_Category": "NON-FICTIONAL",
+      "book_Category_id": 5
+    },
+    {
+      "book_Id": 26,
+      "book_Name": "Steve Jobs",
+      "book_Author": "Walter Isaacson",
+      "book_Price": 3400,
+      "book_Category": "BIOGRAPHY",
+      "book_Category_id": 6
+    },
+    {
+      "book_Id": 27,
+      "book_Name": "Satya ke Prayog",
+      "book_Author": "Mahatma Gandhi",
+      "book_Price": 5000,
+      "book_Category": "BIOGRAPHY",
+      "book_Category_id": 6
+    },
+    {
+      "book_Id": 28,
+      "book_Name": "Alexander Hamilton",
+      "book_Author": "Ron Chernow",
+      "book_Price": 4400,
+      "book_Category": "BIOGRAPHY",
+      "book_Category_id": 6
+    },
+    {
+      "book_Id": 29,
+      "book_Name": "Wings of Fire",
+      "book_Author": "A. P. J. Abdul Kalam",
+      "book_Price": 1200,
+      "book_Category": "BIOGRAPHY",
+      "book_Category_id": 6
+    },
+    {
+      "book_Id": 30,
+      "book_Name": "A Promised Land",
+      "book_Author": "Barack Obama",
+      "book_Price": 3300,
+      "book_Category": "BIOGRAPHY",
+      "book_Category_id": 6
+    },
+    {
+      "book_Id": 31,
+      "book_Name": "Cinderella",
+      "book_Author": "Charles Perrault",
+      "book_Price": 3300,
+      "book_Category": "FAIRY TALE",
+      "book_Category_id": 7
+    },
+    {
+      "book_Id": 32,
+      "book_Name": "The Little Mermaid",
+      "book_Author": "Hans Christian Andersen",
+      "book_Price": 3500,
+      "book_Category": "FAIRY TALE",
+      "book_Category_id": 7
+    },
+    {
+      "book_Id": 33,
+      "book_Name": "The Bloody Chamber",
+      "book_Author": "Angela Carter",
+      "book_Price": 2200,
+      "book_Category": "FAIRY TALE",
+      "book_Category_id": 7
+    },
+    {
+      "book_Id": 34,
+      "book_Name": "Uprooted",
+      "book_Author": "Naomi Novik",
+      "book_Price": 3300,
+      "book_Category": "FAIRY TALE",
+      "book_Category_id": 7
+    },
+    {
+      "book_Id": 35,
+      "book_Name": "Beauty and the Beast",
+      "book_Author": "Gabrielle-Suzanne Barbot",
+      "book_Price": 3300,
+      "book_Category": "FAIRY TALE",
+      "book_Category_id": 7
+    },
+    {
+      "book_Id": 36,
+      "book_Name": "Romeo and Juliet",
+      "book_Author": "William Shakespeare",
+      "book_Price": 5400,
+      "book_Category": "DRAMA",
+      "book_Category_id": 8
+    },
+    {
+      "book_Id": 37,
+      "book_Name": "Waiting for Godot",
+      "book_Author": "Samuel Beckett",
+      "book_Price": 2100,
+      "book_Category": "DRAMA",
+      "book_Category_id": 8
+    },
+    {
+      "book_Id": 38,
+      "book_Name": "Hamlet",
+      "book_Author": "William Shakespeare",
+      "book_Price": 6500,
+      "book_Category": "DRAMA",
+      "book_Category_id": 8
+    },
+    {
+      "book_Id": 39,
+      "book_Name": "The Kite Runner",
+      "book_Author": "Khaled Hossein",
+      "book_Price": 7300,
+      "book_Category": "DRAMA",
+      "book_Category_id": 8
+    },
+    {
+      "book_Id": 40,
+      "book_Name": "The Crucible",
+      "book_Author": "Arthur Miller",
+      "book_Price": 5300,
+      "book_Category": "DRAMA",
+      "book_Category_id": 8
+    },
+    {
+      "book_Id": 41,
+      "book_Name": "War and Peace",
+      "book_Author": "Leo Tolstoy",
+      "book_Price": 2240,
+      "book_Category": "HISTORY",
+      "book_Category_id": 9
+    },
+    {
+      "book_Id": 42,
+      "book_Name": "Wolf Hall",
+      "book_Author": "Hilary Mantel",
+      "book_Price": 6540,
+      "book_Category": "HISTORY",
+      "book_Category_id": 9
+    },
+    {
+      "book_Id": 43,
+      "book_Name": "The Pillars of the Earth",
+      "book_Author": "Ken Follett",
+      "book_Price": 2140,
+      "book_Category": "HISTORY",
+      "book_Category_id": 9
+    },
+    {
+      "book_Id": 44,
+      "book_Name": "Gone with the Wind",
+      "book_Author": "Margaret Mitchell",
+      "book_Price": 7740,
+      "book_Category": "HISTORY",
+      "book_Category_id": 9
+    },
+    {
+      "book_Id": 45,
+      "book_Name": "Outlander",
+      "book_Author": "Diana Gabaldon",
+      "book_Price": 3240,
+      "book_Category": "HISTORY",
+      "book_Category_id": 9
+    },
+    {
+      "book_Id": 46,
+      "book_Name": "Milk and honey",
+      "book_Author": "Rupi Kaur",
+      "book_Price": 640,
+      "book_Category": "POEMS",
+      "book_Category_id": 10
+    },
+    {
+      "book_Id": 47,
+      "book_Name": "Leaves of Grass",
+      "book_Author": "Walt Whitman",
+      "book_Price": 390,
+      "book_Category": "POEMS",
+      "book_Category_id": 10
+    },
+    {
+      "book_Id": 48,
+      "book_Name": "Paradise Lost",
+      "book_Author": "John Milton",
+      "book_Price": 840,
+      "book_Category": "POEMS",
+      "book_Category_id": 10
+    },
+    {
+      "book_Id": 49,
+      "book_Name": "Pillow Thoughts",
+      "book_Author": "Courtney Peppernell",
+      "book_Price": 659,
+      "book_Category": "POEMS",
+      "book_Category_id": 10
+    },
+    {
+      "book_Id": 50,
+      "book_Name": "The Collected Poems",
+      "book_Author": "Sylvia Plath",
+      "book_Price": 990,
+      "book_Category": "POEMS",
+      "book_Category_id": 10
+    }
+  ],
+  "addCart": [
+    {
+      "customer_Id": 101,
+      "book_Id": 2,
+      "book_Category": "MYTH",
+      "book_Name": "Gods Of Aincent Egypt",
+      "book_Price": 1000
+    },
+    {
+      "customer_Id": 103,
+      "book_Id": 3,
+      "book_Category": "MYTH",
+      "book_Name": "Norse Mythology",
+      "book_Price": 1000
+    }
+  ],
+  "customer_Order_History": [
+    {
+      "customer_Id": 102,
+      "book_Id": 1
+    },
+    {
+      "customer_Id": 104,
+      "book_Id": 5
+    },
+    {
+      "customer_Id": 102,
+      "book_Id": 3
+    },
+    {
+      "customer_Id": 102,
+      "book_Id": 3
+    },
+    {
+      "customer_Id": 102,
+      "book_Id": 1
+    },
+    {
+      "customer_Id": 102,
+      "book_Id": 1
+    },
+    {
+      "customer_Id": 102,
+      "book_Id": 1
+    },
+    {
+      "customer_Id": 104,
+      "book_Id": 5
+    },
+    {
+      "customer_Id": 104,
+      "book_Id": 1
+    },
+    {
+      "customer_Id": 104,
+      "book_Id": 1
+    },
+    {
+      "customer_Id": 104,
+      "book_Id": 3
+    }
+  ]
+}
